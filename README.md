@@ -219,4 +219,4 @@ from scrapy.cmdline import execute
 
 execute(("scrapy crawl huhao").split())
 ```
-得られたデータはjson、exelの形としれ保存される。
+得られたデータはjson、excelの形としれ保存される。
